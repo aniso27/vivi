@@ -1,0 +1,59 @@
+* {
+  margin : 0;
+  padding: 0;
+}
+
+h1 {
+	color: white;
+	padding: 35px;
+    margin: 25px;
+}
+
+
+.icon {
+  font-size: 24px;
+  color: white;
+  float: center;
+  
+}
+
+.sec {
+  float: left;
+  width: 75%;
+  height: 400px; 
+  background: #f1f1f1;
+  padding: 20px;
+  overflow: auto;
+}
+
+.head {
+  font-size: 70px;
+  text-align: center;
+  color: black;
+}
+.para {
+  text-align: center;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 25%;
+  background-color: #ccc;
+  height: 400px; 
+  text-align: center;
+}
+.mb {
+  margin-bottom: 15px;
+}
+
+.im {
+  margin-bottom: 15px;
+  float: left;
+}
+
+.footer-top {
+  margin-top: 500px;
+  text-align: center;
+  color: white;
+}

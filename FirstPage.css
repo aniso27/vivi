@@ -1,0 +1,28 @@
+
+
+body {
+	background-color: #4853b1 !important;
+}
+
+.form-col {
+  background-color: white;
+  width: 400px;
+  padding: 25px;
+  margin: 25px;
+  text-align: center;
+  height: 600px;
+
+}
+
+h1 {
+	color: white;
+	padding: 25px;
+    margin: 25px;
+}
+
+.para {
+	text-align: center;
+	color: #4853b1;
+	font-size: 18px;
+
+}

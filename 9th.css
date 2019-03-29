@@ -1,0 +1,20 @@
+
+h1 {
+  color: #f1f1f1;
+  padding: 35px;
+    margin: 25px;
+}
+.im {
+	background-color: #4853b1;
+}
+
+.ab {
+    position: absolute;
+  display: inline-block;
+  top: 15px;
+  right: 15px;
+}
+
+.al {
+	text-align: center;
+}
